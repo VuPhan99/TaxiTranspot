@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <!--<color name="colorPrimary">#008577</color>-->
+    <color name="colorapp">#FFDC99</color>
+    <color name="colorPrimaryDark">#f6dfad</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorZoneLogin">#F1F7F7</color>
+    <color name="colorLoginSignup">#FFEC8B</color>
+    <color name="colorLoginSignin">#3F66A3</color>
+    <color name="white">#FFFF</color>
+    <color name="black">#000000</color>
+    <color name="spFlashBackground">#f6dfad</color>
+    <color name="dividerColor">#1F000000</color>
+    <color name="rippleEffectColor">#f816a463</color>
+    <color name="btnPickupRequest">#1fbad6</color>
+    <color name="baseReleaseColor">#212121</color>
+    <color name="basePressColor">#fafafa</color>
+    <color name="ballReleaseColor">#9e9e9e</color>
+    <color name="colorWhite">#fff</color>
+</resources>

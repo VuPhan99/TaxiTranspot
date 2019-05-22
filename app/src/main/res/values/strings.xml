@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Taxi Transpot</string>
+    <string name="login_signup">Sign up</string>
+    <string name="login_signin">Sign in</string>
+    <string name="login_text_hint_email">Email/Phone</string>
+    <string name="login_text_hint_name">Name</string>
+    <string name="login_text_hint_phone">Phone</string>
+    <string name="login_text_hint_password">Password</string>
+    <string name="login_text_dialog_mess_signup">Please use email to register</string>
+    <string name="login_title_dialog_signup">LOGIN</string>
+    <string name="login_text_dialog_mess_signin">You can use Email/Phone to Login</string>
+    <string name="login_title_dialog_signin">REGISTER</string>
+    <string name="login_miss_email">Please enter your Email address</string>
+    <string name="login_miss_phone">Please enter your phone number</string>
+    <string name="login_miss_name">Please enter your full name</string>
+    <string name="login_miss_password">Please enter your password</string>
+    <string name="login_miss_password_length">Password must be at least 6 characters</string>
+    <string name="login_text_register_success">Signup success</string>
+    <string name="login_text_register_fail">Signup failed, Please try again</string>
+    <string name="login_text_signin_success">Signup success</string>
+    <string name="login_text_signin_fail">Signin failed, Please try again</string>
+    <string name="api_ne_vu_sua_lai_nghen">AIzaSyDjOHSMh39cTkldl_cmA0tySAXhy13thTI</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_custommercall">Custommer Call</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="cusstom_call_accept">ACCEPT</string>
+    <string name="cusstom_call_decline">DECLINE</string>
+    <string name="google_direction_api">AIzaSyAYiYWIwvOOmmdKjr9XyJaycXu5sVNsV14</string>
+    <!--<string name="google_direction_api">AIzaSyAYiYWIwvOOmmdKjr9XyJaycXu5sVNsV14</string>-->
+    <string name="title_activity_driver_tracking">Map</string>
+    <string name="home_drawer_myaccont">My account</string>
+    <string name="log_out">Log out</string>
+    <string name="myaccount_notifications_success">Success</string>
+    <string name="myaccount_notifications_fail">Failed</string>
+    <string name="myaccount_notifications_onchange">Please change your information</string>
+
+</resources>

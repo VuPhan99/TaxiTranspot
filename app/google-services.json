@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "202422956946",
+    "firebase_url": "https://taxitranspotvietnamnn.firebaseio.com",
+    "project_id": "taxitranspotvietnamnn",
+    "storage_bucket": "taxitranspotvietnamnn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202422956946:android:d811857e1407b1ce",
+        "android_client_info": {
+          "package_name": "com.dacs.sict.htxv.taxitranspot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202422956946-db5s1t2s87ge3av3dd6h4i2snopkbbdr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dacs.sict.htxv.taxitranspot",
+            "certificate_hash": "1cb10d49e36685d4426613521d8ef5afa544a11e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdY6O-M7dISVacB93BY3RygcONKl3c5H0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202422956946-neofrq7nimbdib9p5kprbg5qdc7in589.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
